@@ -9,7 +9,7 @@
 
 // Configuració de l'API
 // IMPORTANT: Substitueix aquesta URL per l'endpoint real de la teva API Gateway
-const API_ENDPOINT = 'https://lp39seelbf.execute-api.us-east-1.amazonaws.com/prod/visites';
+const API_ENDPOINT = 'https://tk4yjkfo53.execute-api.us-east-1.amazonaws.com/prod/visites';
 
 /**
  * Funció principal que s'executa quan es carrega la pàgina
